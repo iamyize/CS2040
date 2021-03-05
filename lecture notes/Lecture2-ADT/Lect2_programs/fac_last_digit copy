@@ -1,0 +1,11 @@
+import java.util.*;
+import java.lang.*;
+
+public class fac_last_digit{
+    public static void main{
+        Scanner sc = new Scanner(System.in);
+        int i = sc.nextInt()
+        
+
+    } 
+}
