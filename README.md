@@ -1,5 +1,5 @@
 # CS2040
-CS2040 Data Structure and Algorithm AY20/21 
+# CS2040 Data Structure and Algorithm AY20/21 
 
 ## Basic concepts:
 1. sorting algorithms
@@ -11,14 +11,14 @@ CS2040 Data Structure and Algorithm AY20/21
 7. tree *
 8. graphs * 
 
-* the mostimportant topics!! 
+### * the mostimportant topics!! 
 
 ## Workload
 1. lectures(2 hours per section, 2 sections per week) covers the concepts and sample code
 2. labs(2 hours per week) approx. one day to finish the lab 
 3. assignments(2 questions per two weeks) difficult and time-consuming 
-4. tutorials (45 minutes per week) 
-5. other quizzes, usually graded 
+4. tutorials (45 minutes per week) needs to prepare bbefore hand 
+5. other quizzes, usually graded, depends on the lecturer 
 
 ## Useful links:
 1. To understand some basic OOP concepts:
