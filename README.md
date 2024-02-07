@@ -2,7 +2,7 @@
 # CS2040 Data Structure and Algorithm AY20/21 
 
 ## Introduction
-These are the notes for CS2040 from when I was an undergraduate student at NUS (that was a long time ago). And this is a very important, if not the most important courses. 
+These are the notes for CS2040 from when I was an undergraduate student at NUS (that was a long time ago). And this is a very important, if not the most important course. I kind of regretted that I didn't put in more effort. 
 
 
 ## Basic Concepts Covered: 
