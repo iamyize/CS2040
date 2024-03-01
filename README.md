@@ -1,6 +1,3 @@
-
-# CS2040 Data Structure and Algorithm
-
 ## Introduction
 Here are my notes for CS2040 in AY20/21 Sem 1, taken during my undergraduate studies at NUS. Looking back, I consider it a very important, if not the most important course I have taken
 
